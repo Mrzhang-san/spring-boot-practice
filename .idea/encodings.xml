@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/demo-orm-jdbctemplate/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-orm-jdbctemplate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-orm-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-orm-jpa/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
